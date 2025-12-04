@@ -70,8 +70,9 @@ h1 {
     width: 100%;
     margin-bottom: 0.75rem;
     color: inherit;
-    font-weight: 600;
+    font-weight: 700;
     transition: 0.2s ease-in-out;
+    cursor: pointer;
 }
 
 button:hover {
